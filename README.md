@@ -1,7 +1,7 @@
-# Hi there! I'm [İsmin] 👋
+# Hi there! I'm [Merve ayliz ] 👋
 
 <align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6bm93bm93bm93bm93bm93bm93bm93bm93JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6bm93bm93bm93bm93bm93bm93bm93bm93JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iYmNfY3QmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="350" />
 </align>
 
 ### 🎨 Designer & 💻 Aspiring Frontend Developer
@@ -24,6 +24,6 @@ Bridging the gap between **design** and **code**. I believe that great code shou
 ---
 
 ### 📫 Let's connect:
-[LinkedIn](LINKIN_BURAYA) | [My Portfolio](PORTFOLYO_LINKIN_BURAYA)
+[LinkedIn](https://www.linkedin.com/in/ayliz-azaklı-74579b318/) | [My Portfolio](https://merveayliz.github.io/ayliz-dev-/)
 
 *"Coding is simply bringing design to life."* ✨
