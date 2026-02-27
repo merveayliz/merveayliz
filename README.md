@@ -1,7 +1,7 @@
 # Hi there! I'm [Merve ayliz ] 👋
 
 <align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6bm93bm93bm93bm93bm93bm93bm93bm93JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iYmNfY3QmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="350" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p2OHB2MnRtamVvN2FneWIxZHJvMTNuZXBsNXZudDNmMGN1dGpyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPFNd1AJBoYcVUExmE/giphy.gif" align="right" width="350" />
 </align>
 
 ### 🎨 Designer & 💻 Aspiring Frontend Developer
